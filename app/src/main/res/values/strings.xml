@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Futbolerus</string>
+    <string name="action_settings">Settings</string>
+    <string name="stats">Estadístiques</string>
+    <string name="next_match">Pròxim partit</string>
+    <string name="calendar">Calendari</string>
+    <string name="navigation_drawer_open">Obrir Menú</string>
+    <string name="navigation_drawer_close">Tancar Menu</string>
+    <string name="label_home">Pròsim Partit</string>
+</resources>
