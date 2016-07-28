@@ -7,4 +7,6 @@
     <string name="navigation_drawer_open">Obrir Menú</string>
     <string name="navigation_drawer_close">Tancar Menu</string>
     <string name="label_home">Pròsim Partit</string>
+    <string name="login">Log in</string>
+    <string name="user_already_registered">L\' usuari ja existeix</string>
 </resources>

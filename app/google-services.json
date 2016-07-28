@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "773093078591",
+    "project_id": "firebase-futbolerus"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773093078591:android:45f3adbd1c49a8c5",
+        "android_client_info": {
+          "package_name": "com.krnx.futbolerus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773093078591-fn3e5t499sk0mivt7605srpho6n957q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krnx.futbolerus",
+            "certificate_hash": "754315E3F4CE59C4D933506ED14DE29AE5EB4B90"
+          }
+        },
+        {
+          "client_id": "773093078591-dt1dk882vpefmc714t19d65ncnj47m57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZjBR-rjW2XgvN5OhY8p4FqyRfkveDwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773093078591:android:27feace87158476a",
+        "android_client_info": {
+          "package_name": "com.krnx.futbolerus.futbolerus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773093078591-7popiuke473co6gfiq1r15hvkr1btk5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krnx.futbolerus.futbolerus",
+            "certificate_hash": "754315E3F4CE59C4D933506ED14DE29AE5EB4B90"
+          }
+        },
+        {
+          "client_id": "773093078591-dt1dk882vpefmc714t19d65ncnj47m57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZjBR-rjW2XgvN5OhY8p4FqyRfkveDwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
